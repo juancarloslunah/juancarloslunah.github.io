@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi página de Github
 
-You can use the [editor on GitHub](https://github.com/juancarloslunah/juancarloslunah.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+En este página vera mi CV, para su consideración y análisis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Perfil Laboral
 
-### Markdown
+Ingeniero de sistemas con experiencia de 11 años trabajando en base de datos y programación en SQL Server y con programación orientada a objetos en los distintos lenguajes visual Basic, java y C#.net.  Con capacidades de auto aprendizaje, liderazgo, trabajo en grupo y adaptación a las circunstancias.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Actividades Realizadas
+
+## BANCO DE BOGOTA
+
+•	Programación   de   sentencias   SQL   SERVER   (consultas,   creación   de   procedimientos almacenados, creación de funciones)
+•         Programación de sentencias ORACLE (consultas)
+•         Creación de aplicativos WEB FORM(JAVA)
+•         Creación de DTSX (Cargue archivos de información masiva) Visual Studio 2005 y Visual Studio 2010
+•         Creación de Reportes (reporting services)
+•         Creación de mallas tareas programadas Control M
+
+
+## SERTEMPO
+
+•	Programación de sentencias SQL SERVER (consultas, creación  de  procedimientos almacenados, creación de funciones)
+•         Creación de reportes (Crystal report)
+•         Creación de aplicativos (visual basic y c#.net)
+•         Manejo de Access y EXCEL
+
+## Megalínea
+
+•	Programación   de   sentencias   SQL   SERVER (consultas, creación   de   procedimientos almacenados, creación de funciones)
+•         Creación de reportes (Crystal report)
+•         Creación de aplicativos (visual basic y c#.net)
+•         Creación de DTS (Cargue archivos de información) Base de datos Sql 2000
+
 
 ```markdown
 Syntax highlighted code block
