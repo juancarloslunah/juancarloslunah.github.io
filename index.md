@@ -2,11 +2,11 @@
 
 En este página vera mi CV, para su consideración y análisis.
 
-## PERFIL LABORAL
+### PERFIL LABORAL
 
 Ingeniero de sistemas con experiencia de 11 años trabajando en base de datos y programación en SQL Server y con programación orientada a objetos en los distintos lenguajes visual Basic, java y C#.net.  Con capacidades de auto aprendizaje, liderazgo, trabajo en grupo y adaptación a las circunstancias.
 
-## ACTIVIDADES REALIZADAS
+### ACTIVIDADES REALIZADAS
 
 ### BANCO DE BOGOTA
 
