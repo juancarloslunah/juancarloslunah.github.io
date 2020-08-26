@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contacto
 
-Para cualquier duda me pueden escribir al correo <html><a href=’mailto:jlunah1@ucentral.edu.co’>jlunah1@ucentral.edu.co</a></html> y con mucho gusto se las contestare.
+Para cualquier duda me pueden escribir al correo <jlunah1@ucentral.edu.co> y con mucho gusto se las contestare.
