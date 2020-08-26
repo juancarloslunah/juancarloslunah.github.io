@@ -10,27 +10,27 @@ Ingeniero de sistemas con experiencia de 11 años trabajando en base de datos y 
 
 ### BANCO DE BOGOTA
 
-•	Programación   de   sentencias   SQL   SERVER   (consultas,   creación   de   procedimientos almacenados, creación de funciones)
-• Programación de sentencias ORACLE (consultas)
-• Creación de aplicativos WEB FORM(JAVA)
-• Creación de DTSX (Cargue archivos de información masiva) Visual Studio 2005 y Visual Studio 2010
-• Creación de Reportes (reporting services)
-• Creación de mallas tareas programadas Control M
+* Programación   de   sentencias   SQL   SERVER   (consultas,   creación   de   procedimientos almacenados, creación de funciones)
+* Programación de sentencias ORACLE (consultas)
+* Creación de aplicativos WEB FORM(JAVA)
+* Creación de DTSX (Cargue archivos de información masiva) Visual Studio 2005 y Visual Studio 2010
+* Creación de Reportes (reporting services)
+* Creación de mallas tareas programadas Control M
 
 
 ### SERTEMPO
 
-•	Programación de sentencias SQL SERVER (consultas, creación  de  procedimientos almacenados, creación de funciones)
-• Creación de reportes (Crystal report)
-• Creación de aplicativos (visual basic y c#.net)
-• Manejo de Access y EXCEL
+* Programación de sentencias SQL SERVER (consultas, creación  de  procedimientos almacenados, creación de funciones)
+* Creación de reportes (Crystal report)
+* Creación de aplicativos (visual basic y c#.net)
+* Manejo de Access y EXCEL
 
 ### MEGALÍNEA
 
-•	Programación   de   sentencias   SQL   SERVER (consultas, creación   de   procedimientos almacenados, creación de funciones)
-• Creación de reportes (Crystal report)
-• Creación de aplicativos (visual basic y c#.net)
-• Creación de DTS (Cargue archivos de información) Base de datos Sql 2000
+* Programación   de   sentencias   SQL   SERVER (consultas, creación   de   procedimientos almacenados, creación de funciones)
+* Creación de reportes (Crystal report)
+* Creación de aplicativos (visual basic y c#.net)
+* Creación de DTS (Cargue archivos de información) Base de datos Sql 2000
 
 
 ```markdown
